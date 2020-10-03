@@ -1,2 +1,2 @@
 # LoanCalculator
-Simple loan calculator built with Vanila JavaScript
+Simple loan calculator built with Vanila JavaScript.
